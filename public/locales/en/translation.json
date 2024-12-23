@@ -1,0 +1,10 @@
+{
+  "main": {
+    "header": "Welcome to app"
+  },
+  "auth": {
+    "login": "Log in",
+    "phone_number": "Enter your phone number",
+    "password": "Enter your Password"
+  }
+}

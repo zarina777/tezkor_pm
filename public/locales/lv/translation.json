@@ -1,0 +1,9 @@
+{
+  "main": {
+    "header": "Hush kelibsiz appga"
+  },
+  "auth": {
+    "login": "Log in",
+    "phone_number": "Telefon raqamingizni kiriting"
+  }
+}
